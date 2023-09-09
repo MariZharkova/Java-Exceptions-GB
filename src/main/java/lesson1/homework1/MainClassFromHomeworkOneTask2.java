@@ -8,7 +8,7 @@ package lesson1.homework1;
 
 import java.io.FileInputStream;
 import java.io.IOException;
-import java.util.ArrayList;q
+import java.util.ArrayList;
 import java.util.Collection;
 import java.util.LinkedList;
 
